@@ -1,2 +1,2 @@
-# CSCI_3342_002_Exploration_2
+# CSCI_3342_002_Exploration_3
 This is an academic project 
